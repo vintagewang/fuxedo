@@ -5,6 +5,7 @@ Making the world a better place through minimal message-oriented transport layer
 [![Build Status](https://travis-ci.org/fuxedo/fuxedo.svg?branch=master)](https://travis-ci.org/fuxedo/fuxedo)
 [![codecov](https://codecov.io/gh/fuxedo/fuxedo/branch/master/graph/badge.svg)](https://codecov.io/gh/fuxedo/fuxedo)
 [![Coverage Status](https://coveralls.io/repos/github/fuxedo/fuxedo/badge.svg)](https://coveralls.io/github/fuxedo/fuxedo)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvintagewang%2Ffuxedo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvintagewang%2Ffuxedo?ref=badge_shield)
 
 ## Why Fuxedo?
 
@@ -99,3 +100,7 @@ Check out some other projects:
 I'm interested to hear what features of Oracle Tuxedo your project is using and what should be implemented in Fuxedo. If you can share the code or let me take a look under NDA - even better.
 
 For more information, support, features and development contact us at info@fuxedo.io
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvintagewang%2Ffuxedo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvintagewang%2Ffuxedo?ref=badge_large)
